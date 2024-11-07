@@ -95,6 +95,7 @@ Appen skall publiceras online med AWS i en S3 bucket inför varje Sprint Review.
 
 * [User Stories](https://github.com/users/Santosnr6/projects/21)
 * [Tidsbokningar](https://docs.google.com/spreadsheets/d/1HtJ21lBjwtNP8tbahDz9s2I9gDJIs8P1WJMk_N25KpY/edit?usp=sharing)
+* [Examinationsresurser](https://github.com/fu-fullstack-fe23/exam-sprint-resources/tree/main)
 * [Inspelning Intro till gruppexamination]()
 
 ## Inlämning, slutredovisning och bedömning
