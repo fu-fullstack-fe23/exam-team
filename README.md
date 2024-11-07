@@ -93,7 +93,7 @@ Appen skall publiceras online med AWS i en S3 bucket inför varje Sprint Review.
 
 ## Inlämning, slutredovisning och bedömning
 
-Deadline för ert projektarbete är innan er Sprint Review **fredagen den 6/12**. Därefter har ni tills kl 23.59 den 13/12 på er att slutföra er rapport och lämna in den som en länk på Azomo. I er rapport vill jag ha länkar till era Github-repon, ert projekt, samt ert Figma-projekt (se också för guds skull till att jag har tillgång till allt detta, jag kommer inte jaga er under jul och nyår och kommer jag inte in så kan det inte bli godkänt). I er rapport vill jag även se hur ni har arbetat på under projektets gång. Jag vill veta vad ni gjort under vilka veckor, hur har ni prioriterat, och varför har ni prioriterat som ni har gjort. 
+Deadline för ert projektarbete är innan er Sprint Review **fredagen den 6/12**. Därefter har ni tills **kl 23.59 den 13/12** på er att slutföra er rapport och lämna in den som en länk på Azomo. I er rapport vill jag ha länkar till era Github-repon, ert projekt, samt ert Figma-projekt (se också för guds skull till att jag har tillgång till allt detta, jag kommer inte jaga er under jul och nyår och kommer jag inte in så kan det inte bli godkänt). I er rapport vill jag även se hur ni har arbetat på under projektets gång. Jag vill veta vad ni gjort under vilka veckor, hur har ni prioriterat, och varför har ni prioriterat som ni har gjort. Jag vill även se tydligt alla steg i er process.
 
 Även om det är ett grupprojekt så är det individuella betyg som gäller. 
 **För G krävs** att du som student har:
