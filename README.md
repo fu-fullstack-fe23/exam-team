@@ -77,7 +77,7 @@ Oavsett vilket ni väljer så finns det vissa saker ni MÅSTE använda er utav.
 * Middlewares för att autentisera, validera osv.
 * En databas för persistent datalagring
 * En Content Security Policy för att skydda er mot botar
-* Hantera credentials på ett säkert sätt
+* Hosta er backend någonstans
 
 #### Express - utmaningen
 
