@@ -29,7 +29,7 @@ Restaurangens anställda skall kulla använda webbsidan för att:
 * Ändra detaljer i en beställning
 * Lägga med en kommentar i bestälningen (till kocken)
 
-Ni har alltså två olika sorters användare: **kunder** och **anställda**. Kom ihåg att dessa två användargrupper har olika behov!
+Ni har alltså två olika sorters användare: **kunder** och **anställda**. Kom ihåg att dessa två användargrupper har olika behov! Ni hittar User Stories för projektet längre ner under rubriken **Länkar**
 Tänk på att detta projekt kan användas för att söka LIA eller jobb i framtiden, så se till att lägga ner ett ordentligt arbete!
 
 ## Innehåll
@@ -55,7 +55,7 @@ Ni har Design Thinking-modellen till ert förfogande, MEN för att komma igång 
 
 ### Git och GitHub
 
-Jag vill att ni skapar upp separata repon för er frontend och er backend. Dessa skall sedan kopplas ihop med ert projekt som ni skapar på GitHub Projects. Er "board" kommer att vara en "single source of truth" under projektets gång. Det är här ni lägger in alla era user stories, samt specificerar EXAKT vad som behöver göras för att lösa en user story / issue. Er "board" bör minst innehålla följande kategorier: *Product Backlog*, *Sprint Backlog*, *In progress*, *Done*, men ni får även lägga till fler exempelvis *test*, *On hold* etc.
+Ni får själva välja om ni vill köra ett s.k. monorepo innehållandes både er frontend och er backend, eller om ni vill skapa upp separata repon. Därefter skapar ni upp ett (1) projekt på GitHub Projects som ni kopplar ihop med båda ert/era repo(n). Er "board" kommer att vara en "single source of truth" under projektets gång. Det är här ni lägger in alla era user stories, samt specificerar EXAKT vad som behöver göras för att lösa en user story / issue. Er "board" bör minst innehålla följande kategorier: *Product Backlog*, *Sprint Backlog*, *In progress*, *Done*, men ni får även lägga till fler exempelvis *test*, *On hold* etc. Även om man slutfört sina uppgifter/issues så kommer jag att räkna arbetet som "ej slutfört" om man inte aktivt uppdaterar sin "board" allt eftersom arbetet fortskrider. Jag kommer kika in lite då och då för att anteckna hur flitigt ni arbetar och ta med detta i min slutliga bedömning.
 
 Varje vecka kommer jag att kontrollera så att ALLA personer i teamet har varit med och bidragit. Det är INTE okej att sitta med en enda uppgift under en hel vecka och sedan inte alls bli klar. Då är man direkt underkänd. ALLA skall bidra VARJE vecka.
 
@@ -85,11 +85,17 @@ Dels kommer ni att behöva lära er hur man hostar sin beckend på Render, men d
 
 #### Serverless i AWS
 
-Dels så kommer ni återigen vara tvugna att samarbeta i serverless framework med allt som det medför, bestämmande av vems backend man kommer använda i slutändan osv. Den stora utmaningen här blir dock hur ni gör för att trycka in middlewares i er applikation. Ett verktyg ni isåfall kommer behöva använda er av är Middy.
+Dels så kommer ni återigen vara tvugna att samarbeta i serverless framework med allt som det medför, bestämmande av vems backend man kommer använda i slutändan osv. Den stora utmaningen här blir dock hur ni gör för att trycka in middlewares i er applikation. Ett verktyg ni isåfall kommer behöva använda er av är Middy (jag kommer demonstrera detta under vecka 1).
 
 ### AWS S3
 
 Appen skall publiceras online med AWS i en S3 bucket inför varje Sprint Review.
+
+## Länkar
+
+* [User Stories](https://github.com/users/Santosnr6/projects/21)
+* [Tidsbokningar](https://docs.google.com/spreadsheets/d/1HtJ21lBjwtNP8tbahDz9s2I9gDJIs8P1WJMk_N25KpY/edit?usp=sharing)
+* [Inspelning Intro till gruppexamination]()
 
 ## Inlämning, slutredovisning och bedömning
 
@@ -103,7 +109,7 @@ Deadline för ert projektarbete är innan er Sprint Review **fredagen den 6/12**
 
 **För VG krävs** det dessutom att DU har producerat tydlig, läsbar och hanterbar kod, samt visat mycket goda egenskaper i Scrum och kodhantering via Git.
 
-Kom gärna överens som grupp vilket betyg ni vill satsa på, och arbeta tillsammans utefter det tex genom att använda en specifik arkitektur/strategi i era respektive repon. Hamnar man i en grupp som satsar mot G men att man själv vill uppnå ett VG, så kan man kontakta mig så titta vi på vad du som individ behöver göra för att nå det högre betyget.
+Kom gärna överens som grupp vilket betyg ni vill satsa på, och arbeta tillsammans utefter det tex genom att använda en specifik arkitektur/strategi i era respektive repon. Hamnar man i en grupp som satsar mot G men att man själv vill uppnå ett VG, så kan man kontakta mig så tittar vi på vad du som individ behöver göra för att nå det högre betyget.
 
 Projektet skall presentera för klassen PÅ PLATS i skolan torsdagen den 12 december. Kortfattat så kommer projektet att först presenteras och demonstreras på engelska framför klassen, och därefter kommer enn opponering att genomföras på svenska.
 Mer info om upplägg kring detta kommer senare.
