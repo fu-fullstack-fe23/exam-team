@@ -106,7 +106,7 @@ För att jag skall kunna ha koll på vam som kodat vad, samt hur mycket var och 
 * [User Stories](https://github.com/users/Santosnr6/projects/21)
 * [Tidsbokningar](https://docs.google.com/spreadsheets/d/1HtJ21lBjwtNP8tbahDz9s2I9gDJIs8P1WJMk_N25KpY/edit?usp=sharing)
 * [Examinationsresurser](https://github.com/fu-fullstack-fe23/exam-sprint-resources/tree/main)
-* [Inspelning Intro till gruppexamination]()
+* [Inspelning Intro till gruppexamination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EdBm_Kt6XtdPgSH_oEwIHnMBQpjlSs9zN9RsS5ORcfiAyw?e=79NOHI)
 
 ## Inlämning, slutredovisning och bedömning
 
