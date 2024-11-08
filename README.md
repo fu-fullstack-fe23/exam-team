@@ -31,7 +31,7 @@ Restaurangens anställda skall kunna använda webbsidan för att:
 * Ändra detaljer i en beställning
 * Lägga med en kommentar i bestälningen (till kocken)
 
-Ni har alltså två olika sorters användare: **kunder** och **anställda**. Kom ihåg att dessa två användargrupper har olika behov! Ni hittar User Stories för projektet längre ner under rubriken **Länkar**.
+Ni har alltså två olika sorters användare: **kunder** och **anställda**. Kom ihåg att dessa två användargrupper har olika behov! Ni hittar User Stories för projektet längre ner under rubriken **Länkar**. Antingen behåller ni dessa som de är, eller så bryter ni ner dem i mindre "tasks" för er Product Backlog.
 Tänk på att detta projekt kan användas för att söka LIA eller jobb i framtiden, så se till att lägga ner ett ordentligt arbete!
 
 ## Innehåll
