@@ -51,6 +51,8 @@ Ni ska följa Scrum-metoden till punkt och pricka genom hela utvecklingsprocesse
 
 Under kursen har ni handledningstid under ordinarie lektionstillfällen. Ni kommer dessutom kunna boka in mig (er produktägare) för att delta i något av era möten om ni skulle vilja ha min input kring något. Inför varje sprint review på fredagar så behöver gruppen boka in sig på en ledig tid. Alla grupper MÅSTE ha sprint review VARJE vecka.
 
+Sjukanmälan görs både till mig och gruppen.
+
 ### Designprocessen
 
 Ni har Design Thinking-modellen till ert förfogande, MEN för att komma igång snabbt så behöver den inte genomföras till punkt och pricka. Här fokuserar ni inledningsvis på ert koncept, kom på ett riktigt kickass-namn åt er restaurang och börja designa i Figma. Alla olika vyer i er appliaktion MÅSTE prototypas upp i Figma, och detta MÅSTE vara klart senast måndagen den 11/11 så att ni kan sätta igång och börja jobba sedan. Innan ni börjar arbeta MÅSTE designen godkännas av er produktägare (moi). Be om ett snabbt möte, alt. skicka länk till ert Figmaprojekt. 
