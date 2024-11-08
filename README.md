@@ -116,6 +116,7 @@ Deadline för ert projektarbete är innan er Sprint Review **fredagen den 6/12**
 
 **För G krävs** att du som student har:
 * Uppnått samtliga mål för kursen (exempelvis kan man allt men inte förstår hur en CSP fungerar så kan man inte godkännas)
+* Byggt enapplikation som innehåller all funktionalitet som specificeras under Specifikationer
 * Byggt din applikation i React TypeScript
 * Arbetat AKTIVT tillsammans med din grupp
 
