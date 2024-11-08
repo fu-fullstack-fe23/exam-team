@@ -97,7 +97,7 @@ Appen skall publiceras online med AWS i en S3 bucket inför varje Sprint Review.
 
 För att jag skall kunna ha koll på vam som kodat vad, samt hur mycket var och en har bidragit så vill jag att ni i ALLA kod-filer i er frontend och backend (types behövs inte) lägger en kommentar längst ner med författarens namn, samt en kommentar om vad filen gör. Kommentera även sedan om man själv eller annan gruppmedlem går in och ändrar något. Se bild nedan.
 
-![screenshot comment]('./bild.png')
+![screenshot comment](./bild.png)
 
 ## Länkar
 
