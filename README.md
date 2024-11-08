@@ -24,10 +24,10 @@ Restaurangens kunder skall kunna använda webbsidan för att:
 * Ändra eller ångra en lagd beställinng (innan den är låst av personalen)
 * Få information om restaurangen
 
-Restaurangens anställda skall kulla använda webbsidan för att:
+Restaurangens anställda skall kunna använda webbsidan för att:
 * Se inlagda beställningar
 * Se vilka beställningar som ännu inte behandlats
-* Låsa en beställning när man börjar laga den så att den inte kan ändras eller ångras
+* Låsa en beställning när den skickas till köket så att den inte kan ändras eller ångras
 * Ändra detaljer i en beställning
 * Lägga med en kommentar i bestälningen (till kocken)
 
