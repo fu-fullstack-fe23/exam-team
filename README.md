@@ -128,3 +128,53 @@ Projektet skall presentera för klassen PÅ PLATS i skolan torsdagen den 12 dece
 Mer info om upplägg kring detta kommer senare.
 
 Lycka till!
+
+## Inför Fredag 6/12
+
+Inför er sista Code Review, fredagen den 6/12, så vill jag att ni laddar upp en ny fil i ert repo som namnges documentation.md.
+I denna fil vill jag att ni ger en liten "minidokumentation" av er applikation som skall testas av en opponeringsgrupp. Denna dokumentation behöver ej vara särskilt omfattande (och inte röra er backend alls heller), utan mest fungera som en liten guide för kunder och anställda sm aldrig använt er applikation tidigare. Notera att ni även bör skriva in inloggningsuppgifter för kund (om ni har inloggade kunder) och anställda. Ni kan här även skriva med speciella instruktioner som exempelvis "detta funktionalitet fungerar endast om du gör på det här sättet..." etc.
+
+**OBS!** denna fil måste även innehålla länken till er hostade applikation.
+
+Efter lunch på fredag kommer jag lägga upp vilka som skall opponera på vilka, och ni har därefter tills kl 8:00 måndag morgon på er att lägga till medlemmarna i er opponeringsgrupp som collaborators i ert projekt (om ni har ett privat repo).
+
+**Notera** att inget lämnas in på Azomo ännu!
+
+## Inför Torsdag 12/12
+
+På torsdag ses vi allihop på Karlstads Universitet kl 9:00 (jag meddelar vilken sal senare). Försök gärna komma i god tid så att vi kan lösa intrenetinloggningar osv innan vi startar kl 9.
+Presentationen går till som så att grupperna går upp en och en och smäller av sin presentation. Därefter står man kvar längst fram i klassrummet och svarar på de frågor som ens opponeringsgrupp ställer.
+Se till att ha både er frontend- och er backendkod uppe så att ni snabbt kan leta reda på de ställen i koden som ni får frågor om. Totalt räknar vi med ca 25 minuter per grupp, inräknat både presentation och opponering.
+
+### Presentation
+
+Förbered er på att prata i mellan 10-15 minuter om ert projekt. Förutom en obligatorisk demonstration så kan ni även prata om exempelvis:
+
+* Ert samarbete / hur ni strukturerat upp allt
+* Vad som varit lätt / svårt
+* Vad ni lärt er
+* Vad ni fått ändra på längs vägen
+* "Den här kodsnutten är jag extra nöjd med..."
+* "Detta hade vi velat göra annorlunda..."
+* osv.
+
+Presentationen genomförs på engelska!
+
+### Opponering
+
+Förbered minst 5 st diskussionsfrågor som er tilldelade grupp inte enbart kan svara "ja" eller "nej" på. Dessa frågor skall vara öppna och leda till att er tilldelade grupp tvingas resonera kring olika delar i sin applikation
+
+Exempel på frågos skulle kunna vara:
+
+* Mellan rad X och Y i filen xxx.tsx har ni en funktion. Skulle ni kunna förklara vad den funktionen gör?
+* Såvitt jag kan se så krypterar inte ni era lösenord innan de skickas till databasen. Stämmer det och hur gick tankegångarna där?
+* I xxx.js så ser jag att ni gjort på det här sättet. Hade det inte varit bättre / smartare att göra såhär istället? Varför valde ni just ert tillvägagångssätt?
+* Jag ser att ni har en context-mapp. Vad gör filerna som ligger i den?
+* Vad fan är socket för något?
+* osv.
+
+Opponeringen genomförs på svenska!
+
+## Inlämning 13/12
+
+Senast kl 23:59 den 13/12 laddar ni upp länken till er rapport på Azomo. Läs avsnittet **Inlämning, slutredovisning och bedömning** ovan noggrant för att se vad den skall innehålla.
