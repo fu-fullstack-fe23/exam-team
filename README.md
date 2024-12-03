@@ -131,6 +131,8 @@ Lycka till!
 
 ## Inför Fredag 6/12
 
+*Nu är det slutarbetat! Gör inget mer arbete efter er sista Code Review!*
+
 Inför er sista Code Review, fredagen den 6/12, så vill jag att ni laddar upp en ny fil i ert repo som namnges documentation.md.
 I denna fil vill jag att ni ger en liten "minidokumentation" av er applikation som skall testas av en opponeringsgrupp. Denna dokumentation behöver ej vara särskilt omfattande (och inte röra er backend alls heller), utan mest fungera som en liten guide för kunder och anställda sm aldrig använt er applikation tidigare. Notera att ni även bör skriva in inloggningsuppgifter för kund (om ni har inloggade kunder) och anställda. Ni kan här även skriva med speciella instruktioner som exempelvis "detta funktionalitet fungerar endast om du gör på det här sättet..." etc.
 
