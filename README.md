@@ -144,7 +144,7 @@ Efter lunch på fredag kommer jag lägga upp vilka som skall opponera på vilka,
 
 ## Inför Torsdag 12/12
 
-På torsdag ses vi allihop på Karlstads Universitet kl 9:00 (jag meddelar vilken sal senare). Försök gärna komma i god tid så att vi kan lösa intrenetinloggningar osv innan vi startar kl 9.
+På torsdag ses vi allihop på Karlstads Universitet kl 9:00 (jag meddelar vilken sal senare). Detta är **obligatoriskt**! Försök gärna komma i god tid så att vi kan lösa intrenetinloggningar osv innan vi startar kl 9.
 Presentationen går till som så att grupperna går upp en och en och smäller av sin presentation. Därefter står man kvar längst fram i klassrummet och svarar på de frågor som ens opponeringsgrupp ställer.
 Se till att ha både er frontend- och er backendkod uppe så att ni snabbt kan leta reda på de ställen i koden som ni får frågor om. Totalt räknar vi med ca 25 minuter per grupp, inräknat både presentation och opponering.
 
