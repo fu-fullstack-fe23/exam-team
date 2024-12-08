@@ -1,6 +1,7 @@
 # Take Away-restaurangen
 
 [Resurs-repot](https://github.com/fu-fullstack-fe23/exam-sprint-resources)
+
 [Opponeringsgrupper](https://docs.google.com/document/d/10YojAtL4qASIr3DY9737SPgCoxIFEvJsGhcs-fc0EWY/edit?usp=sharing)
 
 ## Inledning
